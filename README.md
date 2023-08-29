@@ -1,4 +1,4 @@
-# DataScicence2023
+# Data Scicence 2023
 
 
 <img src="https://www.seekpng.com/png/detail/48-486267_man-rolling-the-dice-man-rolling-dice-clip.png" width=200>
